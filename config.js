@@ -32,8 +32,7 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, //
-Apr
-4
+	
  If false or an error occurs, the app will use the lat/lon below
 	weatherLatitude: '56.820452',
   	weatherLongitude: '35.899911',
