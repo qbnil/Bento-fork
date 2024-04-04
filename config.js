@@ -33,7 +33,6 @@ const CONFIG = {
 
 	trackLocation: true, //
 	
- If false or an error occurs, the app will use the lat/lon below
 	weatherLatitude: '56.820452',
   	weatherLongitude: '35.899911',
 
